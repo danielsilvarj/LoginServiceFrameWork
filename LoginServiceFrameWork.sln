@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginServiceFrameWork", "LoginServiceFrameWork\LoginServiceFrameWork.csproj", "{76E37619-206E-4E1D-8BF6-27A35DF43397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76E37619-206E-4E1D-8BF6-27A35DF43397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E37619-206E-4E1D-8BF6-27A35DF43397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E37619-206E-4E1D-8BF6-27A35DF43397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E37619-206E-4E1D-8BF6-27A35DF43397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84186764-F90B-4C04-A7D9-14852BC8FC63}
+	EndGlobalSection
+EndGlobal
